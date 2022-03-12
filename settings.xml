@@ -8,8 +8,7 @@
 	   <properties>
 	       <!--  <sonar.jdbc.url>jdbc:h2:tcp://localhost:9092/sonar</sonar.jdbc.url> -->
 	      <!-- SERVER ON A REMOTE HOST -->
-	    <!--  <sonar.host.url>http://localhost:9000</sonar.host.url> -->
-		   <sonar.host.url>http://3.138.136.102:9000</sonar.host.url>
+	     <sonar.host.url>http://3.138.136.102:9000</sonar.host.url>
 	   </properties>
     </profile>
     <profile>
